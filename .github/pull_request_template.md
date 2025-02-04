@@ -1,12 +1,13 @@
+<!-- Please summarize your changes below.-->
+
 ## Changes
 
-<!-- Please summarize your changes. -->
-
-<!-- Please link to any applicable information (forum posts, bug reports, etc.). -->
+<!-- Please link to any applicable information (devforum posts, bug reports, etc.). -->
 
 ## Checks
 
-*Put an X in the brackets to checkmark them.*
+<!-- Put an X in the brackets to checkmark them. -->
+
 By submitting your pull request for review, you agree to the following:
 
 - [ ] This pull request was created in whole or in part by me, and I have the right to submit it under the terms of this repository's open source licenses.
